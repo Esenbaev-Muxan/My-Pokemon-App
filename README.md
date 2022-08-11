@@ -1,4 +1,4 @@
-https://pokedex-api-react.herokuapp.com/
+ https://my-pokemon-app.vercel.app/
 
 # created a simple application with the list of pokemons (pokedex). - ReactJS
 
